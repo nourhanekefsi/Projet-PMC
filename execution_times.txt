@@ -1,0 +1,7 @@
+Facteur de redimensionnement : 1, Temps d'exécution : 0.024798 secondes
+Facteur de redimensionnement : 5, Temps d'exécution : 0.400184 secondes
+Facteur de redimensionnement : 10, Temps d'exécution : 1.641096 secondes
+Facteur de redimensionnement : 15, Temps d'exécution : 3.699517 secondes
+Facteur de redimensionnement : 20, Temps d'exécution : 6.561577 secondes
+Facteur de redimensionnement : 25, Temps d'exécution : 10.350797 secondes
+Facteur de redimensionnement : 30, Temps d'exécution : 14.963320 secondes
